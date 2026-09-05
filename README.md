@@ -58,20 +58,10 @@ Durante el desarrollo del proyecto se realizaron las siguientes etapas:
 
 ## ▶️ Cómo ejecutar el notebook
 
-### Opción 1. Jupyter Notebook
-
-1. Clonar este repositorio.
-2. Instalar las dependencias necesarias.
-3. Abrir el archivo `.ipynb` con Jupyter Notebook o JupyterLab.
-4. Ejecutar las celdas en orden.
-
-### Opción 2. Google Colab
-
-1. Descargar el notebook.
-2. Abrir Google Colab.
-3. Seleccionar **Archivo → Subir notebook**.
-4. Elegir el archivo `.ipynb`.
-5. Ejecutar las celdas de forma secuencial.
+1. Clonar o descargar este repositorio.
+2. Instalar las librerías necesarias.
+3. Abrir el archivo `.ipynb` en Jupyter Notebook.
+4. Ejecutar las celdas en el orden en que aparecen.
 
 ---
 
@@ -81,7 +71,7 @@ Para reproducir el análisis:
 
 1. Descargar el notebook del repositorio.
 2. Tener disponibles los datasets utilizados.
-3. Abrir el notebook en Jupyter Notebook o Google Colab.
+3. Abrir el notebook en Jupyter Notebook.
 4. Ejecutar todas las celdas en el orden en que aparecen.
 5. Revisar las visualizaciones, estadísticas y conclusiones generadas.
 
